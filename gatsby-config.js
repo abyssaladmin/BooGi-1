@@ -59,8 +59,18 @@ const plugins = [
   {
     resolve: 'gatsby-plugin-mdx',
     options: {
-      remarkPlugins: [require('remark-emoji'), require('remark-abbr')],
-      gatsbyRemarkPlugins: [
+      remarkPlugins: [require('remark-emoji'), require('remark-abbr'), require('gatsby-remark-latex')require ('gatsby-transformer-remark')],
+      
+    gatsbyRemarkPlugins: [
+        {
+          resolve: 'gatsby-transformer-remark',
+          options: {
+          plugins: [
+        {
+          resolve: 'gatsby-remark-katex',
+          options: {
+            // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+            strict: `ignore`
         {
           resolve: 'gatsby-remark-mermaid',
           options: {
