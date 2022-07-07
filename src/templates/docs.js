@@ -7,6 +7,8 @@ import config from 'config';
 import emoji from '../utils/emoji';
 import { onMobile, onTablet } from '../styles/responsive';
 
+import "katex/dist/katex.min.css"
+
 const Title = styled.h1`
   font-size: 24pt
   line-height: 1.5;
