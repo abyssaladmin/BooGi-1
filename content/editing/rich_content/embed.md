@@ -45,14 +45,6 @@ https://giphy.com/gifs/howtogiphygifs-how-to-XatG8bioEwwVO
 
 https://giphy.com/gifs/howtogiphygifs-how-to-XatG8bioEwwVO
 
-### Instagram
-
-**Usage:**
-
-```
-https://instagram.com/p/B60jPE6J8U-
-```
-
 **Result:**
 
 https://instagram.com/p/B60jPE6J8U-
