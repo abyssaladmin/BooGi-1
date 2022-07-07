@@ -45,14 +45,6 @@ https://giphy.com/gifs/howtogiphygifs-how-to-XatG8bioEwwVO
 
 https://giphy.com/gifs/howtogiphygifs-how-to-XatG8bioEwwVO
 
-**Result:**
-
-https://instagram.com/p/B60jPE6J8U-
-
-### Lichess
-
-**Usage:**
-
 ```
 https://lichess.org/MPJcy1JW
 ```
